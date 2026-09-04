@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-**Software Engineer — distributed systems, backend, and applied ML**
-📍 Victoria, BC, Canada · Open to junior software engineering roles
-
----
-
 I'm a recent Computer Science graduate (First Class Honours, University of Manitoba)
 with about two years of paid research experience building distributed systems. That work
 produced two peer-reviewed publications and a strong preference for systems where
