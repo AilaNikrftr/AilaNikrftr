@@ -15,3 +15,12 @@ consensus algorithms, federated training, health data pipelines. I'm currently l
 a junior backend or software engineering role.
 
 **Stack:** Go · Python · Java · TypeScript · SQL · PostgreSQL · Docker · AWS
+
+---
+
+ ## Personal Hobbies: 
+
+**Learning Languages** — English, Persian, Turkish/Azerbaijani. Currently learning French and German.
+**Climbing & hiking** 
+**Classical violin** 
+**Crochet** 
