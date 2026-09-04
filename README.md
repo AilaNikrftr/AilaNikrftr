@@ -13,7 +13,7 @@ a junior backend or software engineering role.
 
  ## Personal Hobbies: 
 
-**Learning Languages** — English, Persian, Turkish/Azerbaijani. Currently learning French and German.
-**Climbing & hiking** -
-**Classical violin** -
-**Crochet** -
+🌍 **Languages** — English, Persian, Turkish/Azerbaijani. Learning French and German. 
+🧗 **Climbing & hiking** — problem-solving on a wall.  
+🎻 **Classical violin** — long-running, occasionally practised.  
+🧶 **Crochet** — the only thing I build with no undo button.
